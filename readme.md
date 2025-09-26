@@ -59,9 +59,9 @@ This project is licensed under the MIT License.
 ## Contact
 **Contact Me**
 
-- **Email:** shubhamsinghh057@gmail.com
-- **Phone:** +91-9520132466
-- **LinkedIn:** [linkedin.com/in/Shubham](https://www.linkedin.com/in/shubham-singh-64827a228/)
-- **GitHub:** [github.com/shubhamsingh057](https://github.com/shubhamsingh057)
+- **Email:** 29chauhanjoyti03@gmail.com
+- **Phone:** +91-6283164294
+- **LinkedIn:** 
+- **GitHub:** [github.com/joyti29](https://github.com/joyti29)
 
 For questions or feedback, please open an issue in this repository.
